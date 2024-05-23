@@ -1,4 +1,3 @@
-VChatz
 VChatz is a Full Stack Chatting App. Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 
 Tech Stack:
@@ -15,7 +14,7 @@ Run Locally
 
 Clone the project
 
-git clone https:
+git clone https: https://github.com/dhanushram24/Vchat.git
 Go to the project directory
 
 cd mern-chat-app
